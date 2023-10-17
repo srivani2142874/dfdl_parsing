@@ -1,2 +1,2 @@
 # dfdl_parsing
-parsing the data and providing initiators assets 
+parsing the data and providing initiators asserts 
